@@ -1,0 +1,40 @@
+/*@font-face {*/
+/*  font-family: 'LXGW WenKai';*/
+/*  src: url('lxgw-wenkai.woff2') format('woff2'),*/
+/*       url('lxgw-wenkai.woff') format('woff');*/
+/*  font-weight: normal;*/
+/*  font-style: normal;*/
+/*}*/
+
+/*body {*/
+/*  font-family: 'LXGW WenKai', sans-serif;*/
+/*}*/
+
+/*button.md-top {*/
+/*  font-family: LXGW WenKai;*/
+/*  !* 修改字体 *!*/
+/*  !*font-size: 16px;*!*/
+/*  !* 修改字体大小 *!*/
+/*  !*font-weight: lighter;*!*/
+/*  !* 修改字体粗细 *!*/
+/*  !* color: #4351AF; *!*/
+/*  !* 修改字体颜色 *!*/
+/*}*/
+
+/*
+ * https://github.com/lxgw/LxgwWenKai-Screen/releases
+ */
+@font-face {
+  font-family: 'LXGW WenKai';
+  src: url('.obsidian/fonts/LXGWWenKaiMonoScreen.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'LXGW WenKai', sans-serif;
+}
+
+* {
+  font-family: 'LXGW WenKai', sans-serif;
+}
